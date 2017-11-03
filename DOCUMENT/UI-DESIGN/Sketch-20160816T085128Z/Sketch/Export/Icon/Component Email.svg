@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="21px" viewBox="0 0 32 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>Imported Layers</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Location-Detail-Registered-Or-Unregistered" sketch:type="MSArtboardGroup" transform="translate(-42.000000, -891.000000)" fill="#D5D5D5">
+            <g id="Dashboard" sketch:type="MSLayerGroup" transform="translate(0.000000, 51.000000)">
+                <g id="Location-details" sketch:type="MSShapeGroup">
+                    <path d="M55.7142857,849 C56.8321008,848.889591 56.7382473,850 58.0001521,850 C59.2620568,850 59.1671578,848.889591 60.2857143,849 C60.0651469,848.4317 72.4761905,841.5 72.4761905,841.5 C72.4761905,841.5 74.6909165,840 72.4761905,840 L43.5238095,840 C41.3097691,840 43.5238095,841.5 43.5238095,841.5 C43.5238095,841.5 55.9344685,848.4317 55.7142857,849 Z M60.2857143,851.272727 C60.2857143,851.272727 58.873617,852.272727 58.1675684,852.272727 C57.3498075,852.272727 55.7142857,851.272727 55.7142857,851.272727 L43.5238095,844 C43.5238095,844 42.0000009,844.223855 42,844 C42.0000009,844.953133 42.0000009,859.102613 42,859.454545 C42.0000009,859.931607 42.9927119,861 43.5238095,861 L72.4761905,861 C73.0072869,861 73.9999979,859.931607 74,859.454545 C73.9999979,859.102613 73.9999979,844.953133 74,844 C73.999998,844.216543 72.5261748,843.991879 72.4761905,844 L60.2857143,851.272727 Z" id="Imported-Layers"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

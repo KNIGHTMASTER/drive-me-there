@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="36px" height="40px" viewBox="0 0 36 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 254</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Home" sketch:type="MSArtboardGroup" transform="translate(-650.000000, -87.000000)" fill="#FFFFFF">
+            <g id="Header" sketch:type="MSLayerGroup">
+                <path d="M665,91.3478582 L665,90.0016655 C665,88.3390201 666.343146,87 668,87 C669.653483,87 671,88.3438914 671,90.0016655 L671,91.3478996 C676.73431,92.7026453 681,97.8556903 681,104.005752 L681,121 L655,121 L655,104.005752 C655,97.8533 659.2666,92.7022056 665,91.3478582 Z M655,116 L655,121 L650,121 L655,116 Z M668,127 C670.209139,127 672,125.209139 672,123 C670,123 665,123 664,123 C664,125.209139 665.790861,127 668,127 Z M681,116 L681,121 L686,121 L681,116 Z" id="Rectangle-254" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

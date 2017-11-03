@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Populate CallPlan Location-->
+<resources>
+    <string-array name="area_array">
+        <item>JS</item>
+        <item>KEI</item>
+    </string-array>
+</resources>

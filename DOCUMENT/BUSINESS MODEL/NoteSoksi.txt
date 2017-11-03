@@ -1,0 +1,4 @@
+1. Iconic design
+2. Base color = 
+3. Image cropping
+4. Database + sample data

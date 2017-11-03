@@ -1,0 +1,7 @@
+User :
+Language
+Mobile Phone
+Email
+is Join Events
+is Enable Notification
+is Enable Location Sharing

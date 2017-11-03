@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="280px" height="226px" viewBox="0 0 280 226" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo2 + Map</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.078736182   0 0 0 0 0.078736182   0 0 0 0 0.078736182  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Splash-Screen" sketch:type="MSArtboardGroup" transform="translate(-220.000000, -432.000000)">
+            <g id="Background" sketch:type="MSLayerGroup">
+                <g id="Logo2-+-Map" transform="translate(234.000000, 439.000000)">
+                    <g id="Logo2" transform="translate(78.000000, 181.000000)" filter="url(#filter-1)" font-weight="normal" font-family="Yuanti SC" fill="white" sketch:type="MSTextLayer" font-size="27.2">
+                        <text id="DriveMeThere">
+                            <tspan x="0.324324324" y="29.53125" fill="#1F7D9B">DriveMe</tspan>
+                            <tspan x="96.5851243" y="29.53125" font-weight="260" fill="#DEDEDE">There</tspan>
+                        </text>
+                    </g>
+                    <g id="Map" transform="translate(126.376257, 98.326144) rotate(-358.000000) translate(-126.376257, -98.326144) translate(3.376257, 4.826144)" sketch:type="MSShapeGroup">
+                        <path d="M29.1511389,164.428476 L29.1511389,186.040154 L0.158235852,162.464231 L0.631018708,158.865026 L29.1511389,164.428476 Z" id="Rectangle-1" fill="#15627B"></path>
+                        <path d="M9.31667464,97.8489072 L-8.52651283e-14,16.03125 L69.0060177,34.9258127 L176.895303,0.97129242 L245.189189,16.03125 L235.327096,83.9990557 L245.189189,162.5 L178.259055,144.460805 L69.0060177,175.037312 L-8.52651283e-14,162.5 L9.31667464,97.8489072 Z" id="Rectangle-1" stroke="#1F7D9B" stroke-width="3.4" fill="#3CADD7"></path>
+                        <path d="M169.026947,78.9216439 L68.7353633,170.773248" id="Line" stroke="#F8E71C" stroke-width="1.7" stroke-linecap="square"></path>
+                        <path d="M170.27027,77.34375 L241.783786,159.093753" id="Line" stroke="#F8E71C" stroke-width="1.7" stroke-linecap="square"></path>
+                        <path d="M170.27027,77.34375 L68.2509782,38.2193224" id="Line" stroke="#F8E71C" stroke-width="1.7" stroke-linecap="square"></path>
+                        <path d="M170.27027,77.34375 L241.783786,19.4375" id="Line" stroke="#F8E71C" stroke-width="1.7" stroke-linecap="square"></path>
+                        <path d="M168.678565,77.8980729 L175.337846,1.74520319 L243.199156,18.0137519 L234.232979,85.5208132 L168.678565,77.8980729 Z" id="Rectangle-1" stroke="#1F7D9B" stroke-width="1.7"></path>
+                        <path d="M63.4044754,109.612706 L67.1564015,37.2066245 L177.142959,0.939402559 L170.437479,76.4452649 L63.4044754,109.612706 Z" id="Rectangle-1" stroke="#1F7D9B" stroke-width="1.7"></path>
+                        <path d="M9.53725325,97.2719445 L64.8489508,107.530188 L166.391683,75.8993156 L235.327096,83.9990574 L245.189189,162.5 L178.259055,144.460805 L69.0060177,175.037312 L-3.69482223e-13,162.5 L9.53725325,97.2719445 Z" id="Rectangle-1" stroke="#1F7D9B" stroke-width="1.7"></path>
+                        <path d="M178.489261,144.479139 L170.095175,76.2569103 L235.058904,83.9732892 C235.058904,83.9732892 235.839438,89.101918 236.150766,91.545022 C239.16205,115.175613 245.184617,162.436796 245.184617,162.436796 L178.489261,144.479139 Z" id="Rectangle-1" stroke="#1F7D9B" stroke-width="1.7"></path>
+                        <path d="M0.122007628,162.35738 L9.46327184,97.3129997 L64.7964428,107.537836 L69.2221357,173.413823 L0.122007628,162.35738 Z" id="Rectangle-1" stroke="#1F7D9B" stroke-width="1.7"></path>
+                        <path d="M9.28770806,98.9374264 L8.52651283e-14,16.03125 L69.1179057,35.5727958 L64.9880345,109.430047 L9.28770806,98.9374264 Z" id="Rectangle-1" stroke="#1F7D9B" stroke-width="1.7"></path>
+                        <ellipse id="Oval-2" stroke="#1F7D9B" stroke-width="3.4" fill="#3CB1D6" cx="170.27027" cy="77.34375" rx="10.2162162" ry="10.21875"></ellipse>
+                        <ellipse id="Oval-2" fill="#D44A5B" cx="170.27027" cy="77.34375" rx="6.81081081" ry="6.8125"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

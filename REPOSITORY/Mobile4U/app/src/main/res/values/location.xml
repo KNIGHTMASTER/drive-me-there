@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Populate CallPlan Location-->
+<resources>
+    <string-array name="location_array">
+        <item>JKT</item>
+        <item>BDG</item>
+        <item>TNG</item>
+        <item>SBY</item>
+        <item>DPK</item>
+        <item>BKS</item>
+        <item>BOG</item>
+        <item>JBR</item>
+    </string-array>
+
+    <string-array name="location_res_array">
+        <item>Jakarta</item>
+        <item>Bandung</item>
+        <item>Tangerang</item>
+        <item>Surabaya</item>
+        <item>Depok</item>
+        <item>Bekasi</item>
+        <item>Bogor</item>
+        <item>Jember</item>
+    </string-array>
+</resources>

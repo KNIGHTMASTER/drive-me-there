@@ -1,0 +1,34 @@
+apply plugin: 'com.android.library'
+apply plugin: 'com.neenbedankt.android-apt'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "22.0.1"
+
+    defaultConfig {
+        minSdkVersion 16
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    /*OKHTTP*/
+    compile 'com.squareup.okhttp:okhttp:2.4.0'
+    /*REST CLIENT*/
+    compile 'com.squareup.retrofit:retrofit:1.9.0'
+    /*Jackson*/
+    compile 'com.fasterxml.jackson.core:jackson-annotations:2.2.2'
+    compile 'com.fasterxml.jackson.core:jackson-databind:2.3.2'
+    apt "org.parceler:parceler:1.0.3"
+    compile project(':am-common')
+    compile project(':am-dao')
+}

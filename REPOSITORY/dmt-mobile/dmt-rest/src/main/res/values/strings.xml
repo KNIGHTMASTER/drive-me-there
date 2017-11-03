@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">am-rest</string>
+    <string name="post_execute_bgp">Post execute BGP </string>
+</resources>

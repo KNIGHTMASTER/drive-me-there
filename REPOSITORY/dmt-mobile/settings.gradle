@@ -1,0 +1,1 @@
+include ':app', ':dmt-common', ':dmt-component', ':dmt-dao', ':dmt-model', ':dmt-rest', ':dmt-service', ':dmt-util'

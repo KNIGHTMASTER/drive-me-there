@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingBottom="32dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingTop="32dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#46f0e6eb"
+        android:orientation="vertical"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:paddingTop="22dp" >
+
+        <id.co.zisal.dmt_component.ui.font.RobotoTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="32dp"
+            android:background="@drawable/transparent_button_selector"
+            android:gravity="right"
+            android:text="@string/register"
+            android:textColor="@color/main_color_grey_700"
+            android:textSize="34sp"
+            app:typeface="robotoThin" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical" >
+
+            <id.co.zisal.dmt_component.ui.font.MaterialDesignIconsTextView
+                android:id="@+id/icon_friends"
+                style="@style/TextViewAppearance.Title1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="0dp"
+                android:text="@string/material_icon_account"
+                android:textColor="@color/main_color_grey_300"
+                android:textSize="22dp" />
+
+            <id.co.zisal.dmt_component.ui.view.FloatLabeledEditText
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_weight="1"
+                app:fletFloatingHint="@string/username"
+                app:fletHintTextColor="@color/main_color_grey_300"
+                app:fletSingleLine="true"
+                app:fletTextColor="@color/main_color_grey_700" >
+            </id.co.zisal.dmt_component.ui.view.FloatLabeledEditText>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical" >
+
+            <id.co.zisal.dmt_component.ui.font.MaterialDesignIconsTextView
+                style="@style/TextViewAppearance.Title1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="0dp"
+                android:text="@string/material_icon_password"
+                android:textColor="@color/main_color_grey_300"
+                android:textSize="22dp" />
+
+            <id.co.zisal.dmt_component.ui.view.FloatLabeledEditText
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_weight="1"
+                app:fletPassword="true"
+                app:fletFloatingHint="@string/password"
+                app:fletHintTextColor="@color/main_color_grey_300"
+                app:fletSingleLine="true"
+                app:fletTextColor="@color/main_color_grey_700" >
+            </id.co.zisal.dmt_component.ui.view.FloatLabeledEditText>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical" >
+
+            <id.co.zisal.dmt_component.ui.font.MaterialDesignIconsTextView
+                style="@style/TextViewAppearance.Title1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="0dp"
+                android:text="@string/material_icon_email"
+                android:textColor="@color/main_color_grey_300"
+                android:textSize="22dp" />
+
+            <id.co.zisal.dmt_component.ui.view.FloatLabeledEditText
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_weight="1"
+                app:fletFloatingHint="@string/email"
+                app:fletHintTextColor="@color/main_color_grey_300"
+                app:fletSingleLine="true"
+                app:fletTextColor="@color/main_color_grey_700" >
+            </id.co.zisal.dmt_component.ui.view.FloatLabeledEditText>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical" >
+
+            <id.co.zisal.dmt_component.ui.font.MaterialDesignIconsTextView
+                style="@style/TextViewAppearance.Title1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="0dp"
+                android:text="@string/material_icon_flag"
+                android:textColor="@color/main_color_grey_300"
+                android:textSize="22dp" />
+
+            <id.co.zisal.dmt_component.ui.view.FloatLabeledEditText
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_weight="1"
+                app:fletFloatingHint="@string/country"
+                app:fletHintTextColor="@color/main_color_grey_300"
+                app:fletSingleLine="true"
+                app:fletTextColor="@color/main_color_grey_700" >
+            </id.co.zisal.dmt_component.ui.view.FloatLabeledEditText>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical" >
+
+            <id.co.zisal.dmt_component.ui.font.MaterialDesignIconsTextView
+                style="@style/TextViewAppearance.Title1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="0dp"
+                android:text="@string/material_icon_city"
+                android:textColor="@color/main_color_grey_300"
+                android:textSize="22dp" />
+
+            <id.co.zisal.dmt_component.ui.view.FloatLabeledEditText
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_weight="1"
+                app:fletFloatingHint="@string/city"
+                app:fletHintTextColor="@color/main_color_grey_300"
+                app:fletSingleLine="true"
+                app:fletTextColor="@color/main_color_grey_700" >
+            </id.co.zisal.dmt_component.ui.view.FloatLabeledEditText>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="22dp"
+            android:layout_marginTop="12dp"
+            android:gravity="right" >
+
+            <id.co.zisal.dmt_component.ui.font.RobotoTextView
+                android:id="@+id/register"
+                style="@style/ButtonStyle.RaisedEmpty"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="0dp"
+                android:background="@drawable/transparent_button_selector"
+                android:minWidth="96dp"
+                android:text="@string/register"
+                android:textColor="@color/main_color_grey_700"
+                app:typeface="robotoMedium" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

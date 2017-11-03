@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Pre Development-->
+<!--
+<resources>
+    <color name="base_color">#03A9F4</color>
+
+    <color name="primary">#E91E63</color>
+    <color name="primary_dark">#C2185B</color>
+    <color name="primary_light">#F8BBD0</color>
+    <color name="accent">#03A9F4</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+
+    <color name="margin_color">#ffbbbbbb</color>
+    <color name="gradient_start">#ffffffff</color>
+    <color name="gradient_end">#ffeeeeee</color>
+    <color name="white">#ffffffff</color>
+    <color name="black_light">#92000000</color>
+    <color name="red_dark_holo">#ffcc0000</color>
+</resources>-->
+
+<resources>
+    <color name="base_color">#03A9F4</color>
+
+    <color name="primary">#03A9F4</color>
+    <color name="primary_dark">#028BCA</color>
+    <color name="primary_light">#FFCCBC</color>
+    <color name="accent">#448AFF</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+
+    <color name="margin_color">#ffbbbbbb</color>
+    <color name="gradient_start">#ffffffff</color>
+    <color name="gradient_end">#ffeeeeee</color>
+    <color name="white">#ffffffff</color>
+    <color name="black_light">#92000000</color>
+    <color name="red_dark_holo">#ffcc0000</color>
+</resources>

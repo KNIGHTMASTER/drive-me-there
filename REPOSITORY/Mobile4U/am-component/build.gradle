@@ -1,0 +1,78 @@
+apply plugin: 'com.android.library'
+
+android {
+
+    compileSdkVersion 22
+    buildToolsVersion "22.0.1"
+
+    defaultConfig {
+        minSdkVersion 16
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+
+    compile 'com.android.support:multidex:1.0.1'
+
+    /*Material Design Support*/
+    compile 'com.android.support:support-v4:22.2.1'
+    compile 'com.android.support:appcompat-v7:22.2.1'
+    compile 'com.android.support:design:22.2.1'
+
+    /*UI DI*/
+    compile 'com.jakewharton:butterknife:6.1.0'
+
+    /*Navigation Drawer Material Design*/
+    compile 'br.com.liveo:navigationdrawer-material:2.3.4'
+
+    /*Card Library*/
+    compile 'com.github.gabrielemariotti.cards:library:1.9.1'
+    compile 'com.github.gabrielemariotti.cards:library-extra:1.9.1'
+
+    /*Round Image View*/
+    //compile 'com.makeramen:roundedimageview:2.0.1'
+
+    /*Image Slider*/
+    //compile 'com.daimajia.slider:library:1.1.2@aar'
+    //compile 'com.daimajia.androidanimations:library:1.0.3@aar'
+
+    /*Picassa Image Loader*/
+    compile 'com.squareup.picasso:picasso:2.5.2'
+
+    /*Ultra Pull to Refresh*/
+    //compile 'in.srain.cube:ultra-ptr:1.0.9@aar'
+
+    /*App intro like view pager*/
+    compile 'com.github.paolorotolo:appintro:3.2.0'
+
+    /*QRCode Reader View*/
+    compile 'me.dm7.barcodescanner:zxing:1.8.3'
+
+    /*Better Spinner*/
+    //compile 'com.github.ganfra:material-spinner:1.1.0'
+
+    compile 'it.neokree:MaterialTabs:0.11'
+
+    /*Flyco Dialog*/
+    /*compile 'com.flyco.dialog:FlycoDialog_Lib:1.1.0@aar'
+    compile 'com.flyco.animation:FlycoAnimation_Lib:1.0.0@aar'
+    compile 'com.nineoldandroids:library:2.4.0'*/
+
+    /*Sublime Picker - Date and time*/
+    /*compile 'com.github.vikramkakkar:SublimePicker:bb405d8d14'*/
+
+    /*compile 'com.github.prolificinteractive:material-calendarview:v1.0.1'*/
+
+    compile project(':am-util')
+    compile project(':am-rest')
+}

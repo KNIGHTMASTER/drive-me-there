@@ -1,0 +1,8 @@
++Mengubah pembatalan tiket menggunakan WS baru (Memasuki Form Transaction) : 50%
+
+tahun keluaran
+CC
+bahan bakar
+sistem bahan bakar
+Warna
+Lama tahun pemakaian

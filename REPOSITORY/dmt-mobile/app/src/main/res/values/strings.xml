@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Drive Me There</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_actvity_splash_screen">ActvitySplashScreen</string>
+    <string name="title_activity_sample">SampleActivity</string>
+
+    <!--ACTIVITY HOME-->
+    <string name="personal_info">Personal Info</string>
+    <string name="bengkel_terdekat">Customer Data</string>
+    <string name="menu_nearest_workshop">Nearest Workshop</string>
+    <string name="menu_tracking_location">Tracking Location</string>
+
+    <string name="quotation">Quotation</string>
+    <string name="notification">Notification</string>
+
+    <!--ACTIVITY LOGIN-->
+    <string name="title_activity_activity_sample">ActivitySample</string>
+    <string name="learn_about">Learn about Drive Me There</string>
+
+    <!--ACTIVITY REGISTER-->
+    <string name="user_upper">USER</string>
+    <string name="workshop_upper">WORKSHOP</string>
+    <string name="merchant_upper">MERCHANT</string>
+    <string name="buyer_upper">BUYER</string>
+
+    <!--Fragment Title-->
+    <string name="fragment_personal_info_title">Personal Info</string>
+    <string name="fragment_nearest_worskhop_title">Nearest Workshop</string>
+
+
+    <!--Upload-->
+    <string name="upload_evidence">Uploading Evidence</string>
+
+    <!--Fragment Personal Info-->
+    <string name="nama_saya">My Name</string>
+    <string name="nick_name">Nick Name</string>
+    <string name="mesin_saya">My Machine</string>
+
+    <!--Fragment Notification-->
+    <string name="posts">Posts</string>
+    <string name="detail">Detail</string>
+    <string name="location">Location</string>
+    <string name="get_location">Lokasi</string>
+    <string name="route">Rute</string>
+    <string name="small_approved">Approved</string>
+    <string name="reject">Reject</string>
+
+    <!--Fragment Call Report-->
+    <string name="options">Options</string>
+    <string name="lost">Lost</string>
+    <string name="deal">Deal</string>
+    <!--DEAL-->
+    <string name="customer_no">Customer No</string>
+    <string name="dp_status">DP Status</string>
+    <string name="balance_status">Balance Status</string>
+    <string name="product_availability">Product Availability</string>
+    <string name="remark">Remark</string>
+    <string name="save">Save</string>
+    <!--LOST-->
+    <string name="reason_of_lost">Reason of lost</string>
+    <string name="lost_to">Lost to</string>
+    <string name="model_competitor">Model Competitor</string>
+
+
+    <!--Fragment About-->
+    <string name="version">version 0.0 &#169; 2015</string>
+    <string name="all_right_reserved">all rights reserved</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Content Description-->
+    <string name="cd_splash_screen_logo">Splash Screen Logo</string>
+    <string name="cd_user_timeline">User Timeline Icon</string>
+    <string name="cd_image_grid">Image Grid</string>
+    <string name="cd_user_profile">User Profile</string>
+    <string name="cd_toolbar_profile_title">Toolbar Profile Title</string>
+
+</resources>

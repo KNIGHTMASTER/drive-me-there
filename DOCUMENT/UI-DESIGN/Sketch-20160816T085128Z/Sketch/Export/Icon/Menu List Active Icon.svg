@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="56px" height="50px" viewBox="0 0 56 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Start-List-Registered-Or-Unregistered" sketch:type="MSArtboardGroup" transform="translate(-558.000000, -1116.000000)" fill="#5F5F5F">
+            <g id="Menu" sketch:type="MSLayerGroup" transform="translate(0.000000, 1093.000000)">
+                <g id="Rectangle-42-+-Shape" transform="translate(540.000000, 0.000000)" sketch:type="MSShapeGroup">
+                    <path d="M70,67 L34,67 L31,67 L31,64 C31,61 31,61 34,61 L70,61 C70,61 70,61 70,64 L70,67 L70,67 Z M70,55 L34,55 L31,55 L31,52 C31,49 31,49 34,49 L70,49 C70,49 70,49 70,52 L70,55 L70,55 Z M70,43 L34,43 L31,43 L31,40 C31,37 31,37 34,37 L70,37 C70,37 70,37 70,40 L70,43 L70,43 Z M70,31 L34,31 L31,31 L31,28 C31,25 31,25 34,25 L70,25 C70,25 70,25 70,28 L70,31 L70,31 Z M28,67 L25,67 L22,67 L22,64 C22,61 22,61 25,61 L28,61 C28,61 28,61 28,64 L28,67 L28,67 Z M28,55 L25,55 L22,55 L22,52 C22,49 22,49 25,49 L28,49 C28,49 28,49 28,52 L28,55 L28,55 Z M28,43 L25,43 L22,43 L22,40 C22,37 22,37 25,37 L28,37 C28,37 28,37 28,40 L28,43 L28,43 Z M28,31 L25,31 L22,31 L22,28 C22,25 22,25 25,25 L28,25 C28,25 28,25 28,28 L28,31 L28,31 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

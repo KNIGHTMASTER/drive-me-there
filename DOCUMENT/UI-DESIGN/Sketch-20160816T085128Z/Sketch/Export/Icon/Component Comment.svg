@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>message 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Profile" sketch:type="MSArtboardGroup" transform="translate(-593.000000, -839.000000)" fill="#D1D1D1">
+            <g id="Dashboard" sketch:type="MSLayerGroup" transform="translate(0.000000, 161.000000)">
+                <g id="Card" transform="translate(0.000000, 162.000000)" sketch:type="MSShapeGroup">
+                    <g id="Oval-84-+-Fill-53-+-message-4" transform="translate(525.000000, 514.000000)">
+                        <path d="M71.7333333,2 L96.2666667,2 C98.2015143,2 100,3.25191777 100,5.73333333 L100,22.2666667 C100,24.1884014 98.2015143,26.0834612 96.2666667,26 L88.2666667,26 L80.2666667,34 L80.2666667,26 L72.2666667,26 C70.0570763,26.0834612 68,24.1884014 68,22.2666667 L68,6.8 C68,3.89505983 69.7984857,2 71.7333333,2" id="message-4"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 38</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Home" sketch:type="MSArtboardGroup" transform="translate(-102.000000, -90.000000)" fill="#FFFFFF">
+            <g id="Header" sketch:type="MSLayerGroup">
+                <path d="M113.652543,92.1525433 L113.652543,88.1536821 C113.652543,87.0403891 114.547801,86.1525433 115.652158,86.1525433 L121.652928,86.1525433 C122.76511,86.1525433 123.652543,87.0484836 123.652543,88.1536821 L123.652543,92.1525433 L113.652543,92.1525433 Z M113.652543,95.1525433 L113.652543,125.152543 L118.768351,130.152543 L123.652543,125.152543 L123.652543,95.1525433 L113.652543,95.1525433 Z" id="Rectangle-38" sketch:type="MSShapeGroup" transform="translate(118.152543, 108.152543) rotate(45.000000) translate(-118.152543, -108.152543) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

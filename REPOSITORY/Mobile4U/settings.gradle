@@ -1,0 +1,1 @@
+include ':app', ':am-common', ':am-component', ':am-dao', ':am-model', ':am-rest', ':am-service', ':am-util'

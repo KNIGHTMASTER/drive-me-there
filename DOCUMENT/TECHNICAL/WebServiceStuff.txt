@@ -1,0 +1,15 @@
+* Webservice address is http://melisa.easywork.co.id.
+* melisa webservice can receive both POST and GET method for an API.
+* Generally, request to server must follow this following format:
+	
+	<webservice_address>/?command=<request_id>&<others_query_string>
+	
+	Example, if you wish to register a regular user, you should send the request as bellow (in GET method) :
+	http://melisa.easywork.co.id/?command=100001&username=johndoe&password=john123&email=johndoe@yahoo.com
+
+
+
+* ALL DEVELOPMEN MUST REFER TO MELISA'S PROTOCOL DOCUMENT in 
+https://onedrive.live.com/view.aspx?cid=3071079d2276fb16&page=view&resid=3071079D2276FB16!3314&parId=3071079D2276FB16!3304&authkey=!ALtDdTvTmVeFGRY&app=Word.
+
+Some adjusments will be needed in naming convention. In melisa's protocol document, all parameters write in camel case. But in webrequest URL, parameter should define as underscored case. For example, "ServiceStationName" melisa's protocol document will be defined as "service_station_name" when you use it in the web service URL.

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Populate CallPlan Location-->
+<resources>
+    <string-array name="customer_no_array">
+        <item>123456</item>
+        <item>654321</item>
+        <item>321654</item>
+        <item>654321</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Jember</item>
+        <item>Surabaya</item>
+        <item>Bangkalan</item>
+        <item>Sampang</item>
+        <item>Pamekasan</item>
+        <item>Sumenep</item>
+        <item>Gresik</item>
+        <item>Malang</item>
+        <item>Lamongan</item>
+    </string-array>
+</resources>

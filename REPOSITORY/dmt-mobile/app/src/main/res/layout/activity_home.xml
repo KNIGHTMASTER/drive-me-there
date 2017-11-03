@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/white">
+    <RadioGroup
+        android:id="@+id/radiogroup"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/menu_bar_bottom_height"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:background="@drawable/navbar_background"
+        >
+        <RadioButton
+            android:id="@+id/btHome"
+            style="@style/navbar_button"
+            android:text="@string/home"
+            android:drawableTop="@drawable/ic_select_home"
+            android:background="@android:color/transparent"
+            />
+        <RadioButton
+            android:id="@+id/btUpload"
+            style="@style/navbar_button"
+            android:text="@string/upload"
+            android:drawableTop="@drawable/ic_select_payment_cart"
+            android:background="@android:color/transparent"
+            />
+        <RadioButton
+            android:id="@+id/btSearch"
+            style="@style/navbar_button"
+            android:text="@string/search"
+            android:drawableTop="@drawable/ic_select_history_transaction"
+            android:background="@android:color/transparent"
+            />
+        <RadioButton
+            android:id="@+id/btNotification"
+            style="@style/navbar_button"
+            android:text="@string/notification"
+            android:drawableTop="@drawable/ic_select_notification"
+            android:background="@android:color/transparent"
+            />
+        <RadioButton
+            android:id="@+id/btProfile"
+            style="@style/navbar_button"
+            android:text="@string/profile"
+            android:drawableTop="@drawable/ic_select_profile"
+            android:background="@android:color/transparent"
+            />
+    </RadioGroup>
+
+    <FrameLayout
+        android:id="@+id/content_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/radiogroup">
+    </FrameLayout>
+
+
+</RelativeLayout>
